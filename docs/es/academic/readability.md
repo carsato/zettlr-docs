@@ -1,6 +1,6 @@
 # Legibilidad
 
-La buena redacción abarca muchos aspectos. Además de contenido conciso, sus textos necesitan una mezcla equilibrada de oraciones largas y cortas. Además, debes abstenerte de usar demasiadas palabras complejas y difíciles. Asimismo, siempre es bueno asegurarse de que sus párrafos no sean demasiado largos, use voz activa y estructura sus párrafos en consecuencia.
+La buena redacción abarca muchos aspectos. Además de contenido conciso, sus textos necesitan una mezcla equilibrada de oraciones largas y cortas. Además, debes abstenerte de usar demasiadas palabras complejas y difíciles. Asimismo, siempre es bueno asegurarse de que sus párrafos no sean demasiado largos, use voz activa y estructure sus párrafos en consecuencia.
 
 Desde el desarrollo del texto, la creatividad de la humanidad ha brindado muchos consejos para escribir bien. Si bien Zettlr le brinda el entorno perfecto para escribir, asegurándose así de que la _lecturabilidad_ de su texto sea excelente, la _legibilidad_ es algo de lo que debe cuidar también. Afortunadamente, Zettlr tiene una herramienta para ti: el **modo de legibilidad**.
 
